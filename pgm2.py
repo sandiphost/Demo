@@ -29,3 +29,4 @@ if flag == flag1:
     
 
 print("Thanks! ")
+print("Good day!")

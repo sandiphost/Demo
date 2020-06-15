@@ -37,6 +37,7 @@ if b not in [5,6,7,8,9,2,12,67.78,1243354566]:
 #Example of USer input   
 name = input("User input -> ")    
 print (name)  
+print ("Monday")
 
   
         
